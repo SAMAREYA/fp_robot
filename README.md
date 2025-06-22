@@ -14,7 +14,7 @@ git clone git@github.com:SAMAREYA/fp_robot.git
 untuk menjalankan package jalankan line berikut 
 
 ```bash
-../..
+cd ../..
 ros2 launch fp_robot main_launch.py
 ```
 
