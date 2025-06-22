@@ -22,7 +22,3 @@ ros2 launch fp_robot main_launch.py
 
 
 
-## Using SSH
-
-
-
