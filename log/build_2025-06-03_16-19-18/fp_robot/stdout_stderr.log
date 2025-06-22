@@ -1,0 +1,45 @@
+running egg_info
+creating build/fp_robot/fp_robot.egg-info
+writing build/fp_robot/fp_robot.egg-info/PKG-INFO
+writing dependency_links to build/fp_robot/fp_robot.egg-info/dependency_links.txt
+writing entry points to build/fp_robot/fp_robot.egg-info/entry_points.txt
+writing requirements to build/fp_robot/fp_robot.egg-info/requires.txt
+writing top-level names to build/fp_robot/fp_robot.egg-info/top_level.txt
+writing manifest file 'build/fp_robot/fp_robot.egg-info/SOURCES.txt'
+reading manifest file 'build/fp_robot/fp_robot.egg-info/SOURCES.txt'
+writing manifest file 'build/fp_robot/fp_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build
+creating /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib
+creating /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+copying fp_robot/main.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+copying fp_robot/kinematic.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+copying fp_robot/direction_pub.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+copying fp_robot/__init__.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+copying fp_robot/udp_node.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+running install
+running install_lib
+creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/main.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/kinematic.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/direction_pub.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/__init__.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/udp_node.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/main.py to main.cpython-310.pyc
+byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/kinematic.py to kinematic.cpython-310.pyc
+byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/direction_pub.py to direction_pub.cpython-310.pyc
+byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/udp_node.py to udp_node.cpython-310.pyc
+running install_data
+creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index
+creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index/resource_index
+creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index/resource_index/packages
+copying resource/fp_robot -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/fp_robot
+running install_egg_info
+Copying build/fp_robot/fp_robot.egg-info to /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing direction_pub script to /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/fp_robot
+Installing udp_node script to /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/fp_robot
+writing list of installed files to '/home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/install.log'

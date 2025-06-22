@@ -1,0 +1,47 @@
+[0.625s] Invoking command in '/home/henray/RoMaze_ws/src/fp_robot': PYTHONPATH=/home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/fp_robot build --build-base /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build install --record /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/install.log --single-version-externally-managed install_data
+[0.853s] running egg_info
+[0.853s] creating build/fp_robot/fp_robot.egg-info
+[0.854s] writing build/fp_robot/fp_robot.egg-info/PKG-INFO
+[0.854s] writing dependency_links to build/fp_robot/fp_robot.egg-info/dependency_links.txt
+[0.854s] writing entry points to build/fp_robot/fp_robot.egg-info/entry_points.txt
+[0.854s] writing requirements to build/fp_robot/fp_robot.egg-info/requires.txt
+[0.854s] writing top-level names to build/fp_robot/fp_robot.egg-info/top_level.txt
+[0.854s] writing manifest file 'build/fp_robot/fp_robot.egg-info/SOURCES.txt'
+[0.856s] reading manifest file 'build/fp_robot/fp_robot.egg-info/SOURCES.txt'
+[0.856s] writing manifest file 'build/fp_robot/fp_robot.egg-info/SOURCES.txt'
+[0.856s] running build
+[0.856s] running build_py
+[0.856s] creating /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build
+[0.856s] creating /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib
+[0.857s] creating /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+[0.857s] copying fp_robot/main.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+[0.857s] copying fp_robot/kinematic.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+[0.858s] copying fp_robot/direction_pub.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+[0.858s] copying fp_robot/__init__.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+[0.858s] copying fp_robot/udp_node.py -> /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot
+[0.858s] running install
+[0.858s] running install_lib
+[0.859s] creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+[0.859s] copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/main.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+[0.859s] copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/kinematic.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+[0.859s] copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/direction_pub.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+[0.859s] copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/__init__.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+[0.859s] copying /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build/lib/fp_robot/udp_node.py -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot
+[0.860s] byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/main.py to main.cpython-310.pyc
+[0.860s] byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/kinematic.py to kinematic.cpython-310.pyc
+[0.860s] byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/direction_pub.py to direction_pub.cpython-310.pyc
+[0.861s] byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/__init__.py to __init__.cpython-310.pyc
+[0.861s] byte-compiling /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot/udp_node.py to udp_node.cpython-310.pyc
+[0.862s] running install_data
+[0.862s] creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index
+[0.862s] creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index/resource_index
+[0.862s] creating /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index/resource_index/packages
+[0.862s] copying resource/fp_robot -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/ament_index/resource_index/packages
+[0.862s] copying package.xml -> /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/share/fp_robot
+[0.862s] running install_egg_info
+[0.863s] Copying build/fp_robot/fp_robot.egg-info to /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages/fp_robot-0.0.0-py3.10.egg-info
+[0.864s] running install_scripts
+[0.880s] Installing direction_pub script to /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/fp_robot
+[0.880s] Installing udp_node script to /home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/fp_robot
+[0.880s] writing list of installed files to '/home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/install.log'
+[0.902s] Invoked command in '/home/henray/RoMaze_ws/src/fp_robot' returned '0': PYTHONPATH=/home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/henray/RoMaze_ws/src/fp_robot/install/fp_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/fp_robot build --build-base /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/build install --record /home/henray/RoMaze_ws/src/fp_robot/build/fp_robot/install.log --single-version-externally-managed install_data

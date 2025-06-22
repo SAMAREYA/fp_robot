@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/henray/RoMaze_ws/install/my-test-package/lib/python3.10/site-packages",
+        "/home/henray/RoMaze_ws/install/fp_robot/lib/python3.10/site-packages",
+        "/home/henray/new_ws/build/robot_joystick",
+        "/home/henray/new_ws/install/robot_joystick/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/udp_publisher_node/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/robot2025_hardware_py/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/robot2025_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/henray/RoMaze_ws/install/my-test-package/lib/python3.10/site-packages",
+        "/home/henray/RoMaze_ws/install/fp_robot/lib/python3.10/site-packages",
+        "/home/henray/new_ws/build/robot_joystick",
+        "/home/henray/new_ws/install/robot_joystick/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/udp_publisher_node/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/robot2025_hardware_py/lib/python3.10/site-packages",
+        "/home/henray/ros2_ws/install/robot2025_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

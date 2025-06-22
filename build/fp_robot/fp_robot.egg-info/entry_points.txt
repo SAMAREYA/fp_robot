@@ -1,0 +1,4 @@
+[console_scripts]
+direction_pub = fp_robot.direction_pub:main
+udp_node = fp_robot.main:main
+
