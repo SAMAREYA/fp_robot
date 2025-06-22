@@ -15,4 +15,17 @@ untuk menjalankan package jalankan line berikut
 
 
 
+## Using SSH
+
+```bash
+mkdir -p robot_ws/src && cd robot_ws/src
+git clone git@github.com:ITSRobocon/robot_2025.git
+cd ../..
+colcon build --packages-select robot2025_utils
+source install/setup.bash
+colcon build --packages-select robot2025_msgs
+source install/setup.bash
+colcon build --packages-select robot2025_hardware robot2025_hardware_py robot2025_description
+source install/setup.bash
+
 
